@@ -1,16 +1,14 @@
 #include<stdio.h>
 #include "calender.h"
 
-#define TRUE    1
-#define FALSE   0
-
 int main(void)
 {
-	int year, daycode, leapyear;
-	
-	year = inputyear();
-	daycode = determinedaycode(year);
-	determineleapyear(year);
-	calendar(year, daycode);
+	int year, dayCode;
+
+	year = inputYear();
+	dayCode = determineDayCode(year);
+	determineLeapYear(year);
+	calendar(year, dayCode);
+	zeller();
 	printf("\n");
 }
