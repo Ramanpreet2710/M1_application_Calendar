@@ -4,11 +4,12 @@ Identifying features
 
 This mini project on Calendar in C programming language is a console application without graphics.
 
-In this mini project, you can find out the whole year calendar which you need. To help you understand the calendar mini project better, there are lots of comments within the source code. This project is aimed to teach you "how to make Calendar using C".
+In this mini project, you can find out the whole year calendar which you need. We can also find the particular day,date of any year in it.As it will be easy for us to find out any details regarding any year like any day,date.
+To help you understand the calendar mini project better, there are lots of comments within the source code. This project is aimed to teach you "how to make Calendar using C".
 
 State of art/Research
 
-Basically we can find the whole year calender according to our need.Like we want to view the last year calendar then we can easily get it or else we can find any year calender without any difficulty.
+Basically we can find the whole year calender according to our need ,particular date,day and year.Like we want to view the last year calendar then we can easily get it or else we can find any year calender without any difficulty.
 
 SWOT ANALYSIS
 
@@ -16,7 +17,7 @@ SWOT ANALYSIS
 
 |
 | — | — |
-| Opportunities*Can be implemented using graphics for more interaction. | Threats* |
+| Opportunities*Can be implemented using graphics for more interaction. | Threats* |Can be modified easily
 
 4W's and 1H
 
@@ -33,18 +34,24 @@ High level Requirements:
 
 ID Description Category Status
 
-HR01 User shall be able to see Technical Implemented
-the current year
+|HR01|User shall be able to see the current year   |    Technical   |         Implemented|
 
-HR02 User shall be able to navigate to Technical Implemented
+
+|HR02| User shall be able to navigate to           |    Technical    |        Implemented|
 a previous year or the next year .
+
+|HR03| User can easily find any day of any month of any year| Technical  |     Implemented|
 
 Low level Requirements:
 
 ID Description HLR Status
 ID
-LR01 If a year is divisible by 4, then it is a leap year. But if that year is divisible by 100, then it is not a leap year. However, if the year is also divisible by 400, then it is a leap year. HR01 Implemented
-LR02 if that year is divisible by 100, then it is not a leap year. Implemented HR03
-if the year is also divisible by 400, then it is a leap year.
-LR03 HR03
-Implemented
+
+|LR01 |If a year is divisible by 4, then it is a leap year. But if that year is divisible by 100, then it is not a leap year. However, if the year is also divisible by 400, then it is a leap year.|Implemented|
+
+
+|LR02| if that year is divisible by 100, then it is not a leap year.|Implemented|
+
+
+|LR03| If the year is also divisible by 400, then it is a leap year.| Implemented|
+
