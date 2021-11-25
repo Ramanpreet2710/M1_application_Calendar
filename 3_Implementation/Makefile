@@ -6,12 +6,12 @@ BUILD = build
 
 # All source code files
 SRC = main.c\
-src/calender.c\
+src/calendar.c\
 
 
 # All test source files
-TEST_SRC = src/calender.c\
-test/test_calender.c\
+TEST_SRC = src/calendar.c\
+test/test_calendar.c\
 unity/unity.c\
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
