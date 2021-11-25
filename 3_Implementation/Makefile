@@ -6,11 +6,11 @@ BUILD = build
 
 # All source code files
 SRC = main.c\
-src/calendar.c\
+src/calender.c\
 
 
 # All test source files
-TEST_SRC = src/calendar.c\
+TEST_SRC = src/calender.c\
 test/test_calender.c\
 unity/unity.c\
 
