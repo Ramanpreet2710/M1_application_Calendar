@@ -10,7 +10,7 @@ src/calendar.c\
 
 
 # All test source files
-TEST_SRC = src/calender.c\
+TEST_SRC = src/calendar.c\
 test/test_calender.c\
 unity/unity.c\
 
