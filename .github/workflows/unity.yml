@@ -1,4 +1,5 @@
-name: Unit Testing - Unity
+
+name: Unit_Testing
 
 on:
   push:
@@ -7,11 +8,12 @@ on:
     branches: [ main ]
 
 jobs:
-  test:
+  build:
 
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
-    - name: make
-      run: make -C 3_Implementation/ test
+      
+    - name: make test
+      run:  make test -C 3_Implementation/
