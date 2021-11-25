@@ -7,3 +7,4 @@ Project GIF
 [![Static code Cppcheck](https://github.com/Ramanpreet2710/M1_application_Calendar/actions/workflows/windows.yml/badge.svg)](https://github.com/Ramanpreet2710/M1_application_Calendar/actions/workflows/windows.yml)
 [![Git Inspector](https://github.com/Ramanpreet2710/M1_application_Calendar/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Ramanpreet2710/M1_application_Calendar/actions/workflows/gitinspector.yml)
 [![Unit_Testing](https://github.com/Ramanpreet2710/M1_application_Calendar/actions/workflows/unity.yml/badge.svg)](https://github.com/Ramanpreet2710/M1_application_Calendar/actions/workflows/unity.yml)
+[![Linux OS Build](https://github.com/Ramanpreet2710/M1_application_Calendar/actions/workflows/Linux%20Build.yml/badge.svg)](https://github.com/Ramanpreet2710/M1_application_Calendar/actions/workflows/Linux%20Build.yml)
