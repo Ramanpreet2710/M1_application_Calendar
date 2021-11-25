@@ -9,3 +9,4 @@ Project GIF
 [![Unit_Testing](https://github.com/Ramanpreet2710/M1_application_Calendar/actions/workflows/unity.yml/badge.svg)](https://github.com/Ramanpreet2710/M1_application_Calendar/actions/workflows/unity.yml)
 [![Linux OS Build](https://github.com/Ramanpreet2710/M1_application_Calendar/actions/workflows/Linux%20OS%20Build.yml/badge.svg)](https://github.com/Ramanpreet2710/M1_application_Calendar/actions/workflows/Linux%20OS%20Build.yml)
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/Ramanpreet2710/M1_application_Calendar/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Ramanpreet2710/M1_application_Calendar/actions/workflows/Valgrind.yml)
+[![Windows C/C++ CI - Build Status](https://github.com/Ramanpreet2710/M1_application_Calendar/actions/workflows/Build%20Windows.yml/badge.svg)](https://github.com/Ramanpreet2710/M1_application_Calendar/actions/workflows/Build%20Windows.yml)
